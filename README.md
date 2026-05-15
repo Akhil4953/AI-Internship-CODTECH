@@ -1,3 +1,3 @@
-# Generative Text Model
+# AI Internship Projects - CODTECH
 
-Generate coherent paragraphs using GPT-2.
+Contains all four Artificial Intelligence internship tasks.
